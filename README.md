@@ -16,7 +16,7 @@ where:
 
 
 ## Input format
-The excel file must include at least two collums **with** headers.
+The excel and csv file must include at least two collums **with** headers.
 * The first collumn must have the IOC **type**
 * The second collumn must have the IOC **value**
 
